@@ -1,5 +1,14 @@
 # client
+--dev
+Puppeteer
 
+
+axios
+vue-axios
+vue-meta-info
+prerender-spa-plugin[meianzhuang ]
+element-ui
+https://blog.csdn.net/aeoliancrazy/article/details/79539143
 ## Project setup
 ```
 yarn install
