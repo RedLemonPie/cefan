@@ -1,6 +1,7 @@
 # client
 --dev
 Puppeteer
+<<<<<<< HEAD
 
 axios
 vue-axios
@@ -9,7 +10,16 @@ vue-meta-info
 prerender-spa-plugin[meianzhuang ]
 element-ui
 https://blog.csdn.net/aeoliancrazy/article/details/79539143
+=======
+>>>>>>> 008ce1cd740f0e2f9469e0047bb051e272c80713
 
+
+axios
+vue-axios
+vue-meta-info
+prerender-spa-plugin[meianzhuang ]
+element-ui
+https://blog.csdn.net/aeoliancrazy/article/details/79539143
 ## Project setup
 ```
 yarn install
